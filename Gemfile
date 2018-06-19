@@ -24,6 +24,8 @@ gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.5'
 gem 'carrierwave', '~> 0.11.2'
 gem 'faker', '~> 1.6', '>= 1.6.6'
+gem 'fog'
+gem 'figaro'
 
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 4.0'
